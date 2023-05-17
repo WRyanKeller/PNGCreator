@@ -3,9 +3,9 @@ A project that aims to allow you to use CityEngine tutorials to create something
 
 ## Important Credits!
 This has been made possible by:
-The PNG Writer library by [Paul Blackburn](https://github.com/individual61) and [Axel Huebl](https://github.com/ax3l)
-The [OpenGL](https://www.opengl.org/) library
-Code reference from [Dr. Chao Peng](https://people.rit.edu/cxpigm/)
+The PNG Writer library by [Paul Blackburn](https://github.com/individual61) and [Axel Huebl](https://github.com/ax3l)  
+The [OpenGL](https://www.opengl.org/) library  
+Code reference from [Dr. Chao Peng](https://people.rit.edu/cxpigm/)  
 
 ## Function
 The PNGCreator as of v0.1.0 is able to generate a series of random pngs which are inspired by those provided with the CityEngine tutorial. While they aren't polished, they should work well enough. Each uses a different algorithm:
@@ -13,7 +13,7 @@ The PNGCreator as of v0.1.0 is able to generate a series of random pngs which ar
 - Obstacles - displays the landmarks in black on a white background
 - Area Types - Uses the landmark algorithm to generate but draws with diminishing opacity to create a fuzzy edge
 - Elevation - Attempts (VERY wip) to create areas which gradiate lighter, representing hills
-- Skyline - Similar to area types
+- Skyline - Similar to area types  
 These five maps can be randomly generated using a built in menu and then saved, which will create or overwrite five pngs in the executable's folder. These can then be substituted in for the provided pngs throughout the steps of the CityEngine tutorials linked in the next sections :)!
 
 ## Background / Goal
