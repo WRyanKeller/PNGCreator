@@ -1,0 +1,8 @@
+C:\Users\14404\source\repos\386\CityEngine_PNG_Creator\Debug\CityEngine_PNG_Creator.vcxproj.CopyComplete
+C:\Users\14404\source\repos\386\CityEngine_PNG_Creator\Debug\CityEngine_PNG_Creator.exe
+C:\Users\14404\source\repos\386\CityEngine_PNG_Creator\Debug\freetyped.dll
+C:\Users\14404\source\repos\386\CityEngine_PNG_Creator\Debug\zlibd1.dll
+C:\Users\14404\source\repos\386\CityEngine_PNG_Creator\Debug\bz2d.dll
+C:\Users\14404\source\repos\386\CityEngine_PNG_Creator\Debug\libpng16d.dll
+C:\Users\14404\source\repos\386\CityEngine_PNG_Creator\Debug\brotlidec.dll
+C:\Users\14404\source\repos\386\CityEngine_PNG_Creator\Debug\brotlicommon.dll

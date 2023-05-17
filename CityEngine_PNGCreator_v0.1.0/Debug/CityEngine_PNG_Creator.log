@@ -1,0 +1,14 @@
+﻿  Landmark.cpp
+C:\Users\14404\source\repos\386\CityEngine_PNG_Creator\Landmark.cpp(130,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\14404\source\repos\386\CityEngine_PNG_Creator\Landmark.cpp(172,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\14404\source\repos\386\CityEngine_PNG_Creator\Landmark.cpp(172,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\14404\source\repos\386\CityEngine_PNG_Creator\Landmark.cpp(172,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\14404\source\repos\386\CityEngine_PNG_Creator\Landmark.cpp(175,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\14404\source\repos\386\CityEngine_PNG_Creator\Landmark.cpp(178,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\14404\source\repos\386\CityEngine_PNG_Creator\Landmark.cpp(179,49): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\14404\source\repos\386\CityEngine_PNG_Creator\Landmark.cpp(179,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\14404\source\repos\386\CityEngine_PNG_Creator\Landmark.cpp(180,45): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\14404\source\repos\386\CityEngine_PNG_Creator\Landmark.cpp(190,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\14404\source\repos\386\CityEngine_PNG_Creator\Landmark.cpp(198,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\14404\source\repos\386\CityEngine_PNG_Creator\Landmark.cpp(206,27): warning C4018: '<': signed/unsigned mismatch
+  CityEngine_PNG_Creator.vcxproj -> C:\Users\14404\source\repos\386\CityEngine_PNG_Creator\Debug\CityEngine_PNG_Creator.exe
