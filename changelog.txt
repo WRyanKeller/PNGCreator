@@ -1,0 +1,7 @@
+CHANGELOG
+
+~~~~~~~v0.1.0~~~~~~~
+Major Changes:
+ - Added entirety of first beta version to repo
+Minor Changes:
+Bugfixes:
