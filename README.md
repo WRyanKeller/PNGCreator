@@ -29,7 +29,7 @@ Code reference from [Dr. Chao Peng](https://people.rit.edu/cxpigm/)
 Created by: Ryan Keller  
 GitHub: [WRyanKeller](https://github.com/WRyanKeller/)  
 Personal Site: WIP  
-Contact about PNGCreator: please email any inquiries or suggestions to william.ryam.keller@gmail.com with the subject line "pngcreator"  
+Contact about PNGCreator: please email any inquiries or suggestions to william.ryan.keller@gmail.com with the subject line "pngcreator"  
 
 ## Liscense
 The GPL-3.0 Liscence allows free usage of any of this, so as long as the product is also open-source. Enjoy :)
